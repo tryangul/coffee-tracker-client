@@ -1,0 +1,6 @@
+export { default as Login }            from './pages/login'
+export { default as SignUp }           from './pages/sign_up'
+export { default as Dashboard }        from './pages/dashboard'
+export { default as Consumption }      from './pages/consumption'
+export { default as InventoryForm }    from './pages/inventory_form'
+export { default as OrdersDeliveries } from './pages/orders_deliveries'
